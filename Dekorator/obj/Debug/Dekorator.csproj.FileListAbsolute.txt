@@ -1,0 +1,7 @@
+C:\Users\Agnieszka\Documents\Visual Studio 2017\Project\Dekorator\Dekorator\bin\Debug\Dekorator.exe.config
+C:\Users\Agnieszka\Documents\Visual Studio 2017\Project\Dekorator\Dekorator\bin\Debug\Dekorator.exe
+C:\Users\Agnieszka\Documents\Visual Studio 2017\Project\Dekorator\Dekorator\bin\Debug\Dekorator.pdb
+C:\Users\Agnieszka\Documents\Visual Studio 2017\Project\Dekorator\Dekorator\obj\Debug\Dekorator.csprojAssemblyReference.cache
+C:\Users\Agnieszka\Documents\Visual Studio 2017\Project\Dekorator\Dekorator\obj\Debug\Dekorator.csproj.CoreCompileInputs.cache
+C:\Users\Agnieszka\Documents\Visual Studio 2017\Project\Dekorator\Dekorator\obj\Debug\Dekorator.exe
+C:\Users\Agnieszka\Documents\Visual Studio 2017\Project\Dekorator\Dekorator\obj\Debug\Dekorator.pdb
